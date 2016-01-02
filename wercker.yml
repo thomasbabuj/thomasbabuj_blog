@@ -3,5 +3,5 @@ build:
   steps:
     - arjen/hugo-build:
         version: "1.8.1"
-        theme: herring-cove
+        theme: casper
         flags: --buildDrafts=true
